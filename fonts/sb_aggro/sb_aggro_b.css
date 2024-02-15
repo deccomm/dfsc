@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "SB AggroOTF Bold";
+    src: url("sb_aggro_b.eot"); /* IE9 */
+    src: url("sb_aggro_b.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("sb_aggro_b.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("sb_aggro_b.woff") format("woff"), /* chrome, firefox */
+    url("sb_aggro_b.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("sb_aggro_b.svg#SB AggroOTF Bold") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
